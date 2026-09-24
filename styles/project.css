@@ -33,7 +33,6 @@ header h2{
 header img {
     float: left;
     margin-left: 2em;
-    border-bottom: 2px solid maroon; 
 }
 .shadow {
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
@@ -71,11 +70,8 @@ footer {
     clear: both;
     border-top: 2px solid maroon;
 }
-div.contact {
+p.fixed {
 position: fixed;
-bottom: 0;
-right: 0;
-width: 400px;
-height: 100px;
+width: auto;
 border: 3px solid maroon;
 }
