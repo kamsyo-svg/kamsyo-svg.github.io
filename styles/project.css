@@ -48,7 +48,6 @@ article {
 }
 article h3 {
 column-span: all;
-border-top: 2px solid maroon;
 }
 article img {
     float: left;
@@ -79,4 +78,7 @@ width: auto;
 border: 3px solid greenyellow;
 padding: 10px;
 background-color: greenyellow;
+}
+header {
+    border-bottom: 2px solid maroon;
 }
