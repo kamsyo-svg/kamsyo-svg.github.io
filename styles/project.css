@@ -76,5 +76,6 @@ position: fixed;
 bottom: 0;
 right: 0;
 width: auto;
-border: 3px solid maroon;
+border: 3px solid greenyellow;
+padding: 10px;
 }
