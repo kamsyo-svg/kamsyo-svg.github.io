@@ -80,5 +80,6 @@ padding: 10px;
 background-color: greenyellow;
 }
 header {
+    clear: both;
     border-bottom: 2px solid maroon;
 }
