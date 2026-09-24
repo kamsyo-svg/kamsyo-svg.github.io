@@ -33,6 +33,7 @@ header h2{
 header img {
     float: left;
     margin-left: 2em;
+    border-bottom: 2px solid maroon; 
 }
 .shadow {
     text-shadow: 2px 2px 2px rgb(128, 0, 0);
@@ -65,7 +66,6 @@ aside {
     float: right;
     background-color: #ffebc6;
     padding: 1em;
-    border-top: 2px solid maroon;
 }
 footer {
     clear: both;
