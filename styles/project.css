@@ -72,8 +72,8 @@ footer {
 }
 p.fixed {
 position: fixed;
-bottom: 5in;
-right: 0;
+bottom: 6in;
+right: 1in;
 width: auto;
 border: 3px solid greenyellow;
 padding: 10px;
