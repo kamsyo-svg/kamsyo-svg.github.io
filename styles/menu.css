@@ -15,7 +15,7 @@
 #nav_menu ul li a.current { color: yellow; }
 
 article h1{
-    clear:left
+    clear:left;
 }
 aside ol {
     list-style-type: upper-roman;
