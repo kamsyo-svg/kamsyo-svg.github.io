@@ -27,6 +27,7 @@ hr {
     margin-top: 35px;
     margin-bottom: 35px;
     margin-right: 0;
+    margin-left: auto;
     border: none;
     border-top: 4px dotted black;
     width: 70px
