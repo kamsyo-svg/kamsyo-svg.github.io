@@ -45,4 +45,6 @@ body {
     margin: 30px;
     background-color: white;
     background: url("../images/SHlogo.png") right repeat-y;
+    background-attachment: fixed;
+    background-size: 450px auto;
 }
