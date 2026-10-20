@@ -67,6 +67,9 @@ aside {
     padding: 1em;
     border: 5px solid green;
 }
+aside ul {
+    list-style-type: square;
+}
 aside ol ol {
 list-style-type: lower-alpha;
 }
