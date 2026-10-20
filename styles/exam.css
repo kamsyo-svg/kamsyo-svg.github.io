@@ -66,3 +66,7 @@ aside {
     padding: 1em;
     border: 10px solid green;
 }
+footer {
+    border-bottom: 2px solid green;
+    text-align: center;
+}
