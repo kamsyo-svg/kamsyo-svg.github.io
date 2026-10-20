@@ -46,8 +46,9 @@ article h2{
 article p::first-letter {
     font-size: 3em;
     font-weight: bold;
+    font-style: italic;
     color: purple;
-    font-family: "Brush Script MT";
+    font-family: "Lucida Calligraphy", cursive;
 }
 body {
     font-family: sans-serif;
