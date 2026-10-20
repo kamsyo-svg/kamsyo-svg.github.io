@@ -14,9 +14,9 @@
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
 
-nav {
+header {
+     clear: both;
     border-bottom: 2px solid green;
-    padding-bottom: 10px;
 }
 article {
     margin-left: 50px;
@@ -26,7 +26,6 @@ article h1 {
 clear: left;
 color: green;
 padding-top: 30px;
-border-top: 2px solid green;
 }
 article h2{
     color: green;
