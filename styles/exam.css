@@ -46,7 +46,6 @@ article h2{
 article p::first-letter {
     font-size: 3em;
     font-weight: bold;
-    font-style: italic;
     color: purple;
     font-family: "Brush Script MT";
 }
@@ -71,7 +70,7 @@ aside ul {
     list-style-type: square;
 }
 aside ol ol {
-list-style-type: lower-alpha;
+    list-style-type: lower-alpha;
 }
 footer {
     margin-top: 30px;
