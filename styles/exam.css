@@ -47,7 +47,7 @@ article p::first-letter {
     font-weight: bold;
     font-style: italic;
     color: purple;
-    font-family: cursive;
+    font-family: "Brush Script MT", cursive;
 }
 body {
     font-family: sans-serif;
@@ -65,6 +65,9 @@ aside {
     background-color: rgb(92, 190, 92);
     padding: 1em;
     border: 5px solid green;
+}
+aside ol ol {
+list-style-type: lower-alpha;
 }
 footer {
     margin-top: 30px;
