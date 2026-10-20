@@ -24,18 +24,25 @@ article {
     margin-right: 100px;
 }
 article h1 {
-clear: left;
-color: green;
-margin-top: 30px;
+    clear: left;
+    color: green;
+    margin-top: 30px;
 }
 article h2{
     color: green;
     margin-top: 20px;
     margin-bottom: 30px;
 }
+article p::first-letter {
+    font-size: 3em;
+    font-weight: bold;
+    font-style: italic;
+    color: purple;
+    font-family: cursive;
+}
 body {
-font-family: sans-serif;
-margin: 30px;
-background-color: white;
-background: url("../images/SHlogo.png") right repeat-y;
+    font-family: sans-serif;
+    margin: 30px;
+    background-color: white;
+    background: url("../images/SHlogo.png") right repeat-y;
 }
