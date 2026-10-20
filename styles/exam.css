@@ -57,3 +57,10 @@ body {
     background-attachment: fixed;
     background-size: 450px auto;
 }
+aside {
+    width: 20%;
+    position: fixed;
+    float: right;
+    background-color: greenyellow;
+    padding: 1em;
+}
