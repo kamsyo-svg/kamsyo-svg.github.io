@@ -36,6 +36,7 @@ article h1 {
     clear: left;
     color: green;
     margin-top: 5px;
+    column-span: all;
 }
 article h2{
     color: green;
