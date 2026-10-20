@@ -14,9 +14,9 @@
 #nav_menu ul li a.lastitem { border-right: none; }	
 #nav_menu ul li a.current { color: yellow; }
 
-header {
-     clear: both;
+nav {
     border-bottom: 2px solid green;
+    padding-bottom: 10px;
 }
 article {
     margin-left: 50px;
