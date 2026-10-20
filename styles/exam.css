@@ -25,7 +25,7 @@ article {
     column-count: 3;
     column-gap: 20px;
     padding-top: 80px;
-    column-rule: 6px dotted green;
+    column-rule: 10px dotted green;
 }
 article img {
     float:left;
