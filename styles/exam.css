@@ -62,7 +62,7 @@ aside {
     position: fixed;
     right: 30px;
     top: 200px;
-    background-color: green;
+    background-color: rgb(92, 190, 92);
     padding: 1em;
     border: 2px solid dark green;
 }
