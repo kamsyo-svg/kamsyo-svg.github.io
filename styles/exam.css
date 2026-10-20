@@ -15,8 +15,9 @@
 #nav_menu ul li a.current { color: yellow; }
 
 header {
-     clear: both;
     border-bottom: 2px solid green;
+    padding-bottom: 10px;
+    height: 70px;
 }
 article {
     margin-left: 50px;
