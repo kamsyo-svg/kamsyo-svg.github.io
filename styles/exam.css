@@ -18,6 +18,11 @@ article h1 {
 clear: left;
 color: green;
 }
+article h2{
+    color: green;
+}
 body {
-
+font-family: sans-serif;
+margin: 30px;
+background-color: white;
 }
