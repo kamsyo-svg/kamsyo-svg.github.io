@@ -7,7 +7,7 @@
     padding: 1em 0;      /* padding above and below a
                             elements */
     text-decoration: none;
-    background-color: blue;
+    background-color: green;
     color: white;
     font-weight: bold;
     border-right: 2px solid white; }
@@ -16,4 +16,8 @@
 
 article h1 {
 clear: left;
+color: green;
+}
+body {
+
 }
