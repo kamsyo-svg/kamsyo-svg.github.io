@@ -60,7 +60,9 @@ body {
 aside {
     width: 20%;
     position: fixed;
-    float: right;
+    right: 30px;
+    top: 200px;
     background-color: greenyellow;
     padding: 1em;
+    border: 2px solid green;
 }
