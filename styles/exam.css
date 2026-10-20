@@ -21,7 +21,7 @@ header {
 }
 article {
     margin-left: 50px;
-    margin-right: 300px;
+    margin-right: 350px;
     column-count: 3;
     column-gap: 20px;
     padding-top: 80px;
@@ -58,7 +58,7 @@ body {
     background-size: 450px auto;
 }
 aside {
-    width: 15%;
+    width: 20%;
     position: fixed;
     right: 30px;
     top: 200px;
