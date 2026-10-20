@@ -18,6 +18,10 @@ header {
      clear: both;
     border-bottom: 2px solid green;
 }
+article {
+    margin-left: 50px;
+    margin-right: 100px;
+}
 article h1 {
 clear: left;
 color: green;
