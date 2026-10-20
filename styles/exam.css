@@ -24,11 +24,11 @@ article {
     margin-right: 250px;
     column-count: 3;
     column-gap: 20px;
+}
 article img {
     float:left;
     margin-right: 1em;
     margin-bottom: 1em;
-}
 }
 article h1 {
     clear: left;
