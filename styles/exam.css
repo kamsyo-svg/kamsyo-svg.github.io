@@ -67,6 +67,6 @@ aside {
     border: 5px solid green;
 }
 footer {
-    border-bottom: 2px solid green;
+    border-top: 2px solid green;
     text-align: center;
 }
