@@ -90,3 +90,6 @@ table.third th, table.third td {
 table.third td {
     vertical-align: top;
 }
+table.third tbody tr:last-child {
+    border-bottom: 2px solid orangered;
+}
