@@ -71,7 +71,7 @@ table.second thead tr:first-child{
 table.third {
     border-collapse: collapse;
 }
-table.third.thead th {
+table.third thead {
     background-color: lightgreen;
 }
 table.third thead tr:first-child {
