@@ -87,3 +87,6 @@ table.third thead th {
 table.third th, table.third td {
     padding: 0.7em 1.5em;
 }
+table.third td {
+    vertical-align: top;
+}
