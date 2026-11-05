@@ -18,7 +18,18 @@
                         <p>Gallons: ${gallons}</p>
                         <p>MPG: ${mpg.toFixed(2)}</p>`;
         document.write(html2);
-</script>    
+</script>  
+
+    <h2>The Rectangle Area Calculator</h2>
+    <script>
+            const width = parseFloat(prompt("Enter width of Rectangle"));
+            const height = parseFloat(prompt("Enter height of Rectangle"));
+            const area = width * height;
+            const html3 = `<p>Width: ${width}</p>
+                            <p>Height: ${height}</p>
+                            <p>Area: ${area.toFixed(3)}</p>`;
+            document.write(html3);
+    </script>
 
 </body>
 </html>
